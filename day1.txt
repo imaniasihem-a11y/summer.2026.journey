@@ -1,1 +1,7 @@
 Day 1 completed
+Today I learned:
+- Repository
+- Commit
+- Push
+- Pull
+- Branch
