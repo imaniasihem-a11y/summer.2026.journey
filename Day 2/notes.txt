@@ -1,1 +1,28 @@
 Today I learned terminal commands.
+Commands I practiced:
+
+pwd        -> Show the current directory
+ls / dir   -> List files and folders
+cd         -> Change directory
+cd ..      -> Go back one directory
+mkdir      -> Create a new folder
+cls        -> Clear the terminal
+
+Git commands:
+
+git init
+git status
+git add .
+git commit -m "Add Day 2 terminal practice"
+git push
+
+Today's challenge:
+
+✓ Created folders using only terminal commands.
+✓ Opened a project using "code ."
+✓ Cloned an existing GitHub repository.
+✓ Connected local work with GitHub.
+
+Reflection:
+
+Today I understood that the terminal is just another way to interact with my computer. Instead of clicking folders with the mouse, I can navigate and manage everything with commands. This is a fundamental skill used by software engineers every day.
